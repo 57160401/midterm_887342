@@ -1,5 +1,5 @@
-puts "ข้อ 1"
-n = 10
+ "ข้อ 1"
+n = 5
 if n<1
    puts "Number Worng!"
 else
@@ -13,8 +13,7 @@ end
      #puts a
 end
   
-  
-puts "ข้อ 2"
+   "ข้อ 2"
 
 fibo = "{"
 
